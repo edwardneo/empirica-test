@@ -1,0 +1,9 @@
+name = "test"
+
+[tajriba.auth]
+srtoken = "UPpZHlfPBoNfVOPb"
+
+[[tajriba.auth.users]]
+name = "Admin"
+username = "admin"
+password = "owXXVSrx"
